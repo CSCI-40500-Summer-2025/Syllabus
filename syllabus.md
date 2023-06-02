@@ -80,10 +80,10 @@ Participation | 5%
 Event | Date
 ----- | ----
 Midterm Exam | TBD
-Juneteenth (College is closed) | June 19
+Juneteenth (college is closed) | June 19
 Classes follow a Monday schedule | June 28
-Independence Day (College is closed) | June 19
-Final Exam | TBD (No latter than July 12)
+Independence Day (college is closed) | June 19
+Final Exam | TBD (no latter than July 12)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
