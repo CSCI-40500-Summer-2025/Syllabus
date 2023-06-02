@@ -121,14 +121,14 @@ Please inform the instructor if your group requires any computing resources from
 
 A select number of groups may be asked to present their final projects towards the end of the semester.
 
-### Notes
+## Notes
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
 - No extensions will be given for extra credit assignments.
 - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
 
-### Exams
+## Exams
 
 Test make-ups will be given if and only if:
 
@@ -137,9 +137,9 @@ Test make-ups will be given if and only if:
 
 Proctoring software, which may include the use of browser lock-downs and cameras, may be used for examinations in this course.
 
-### Professional Presence &amp; Communication
+## Professional Presence &amp; Communication
 
-A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner, even remotely. Students are expected to fully (and solely) participate in their group activities under a professional demeanor.
+A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner, even remotely. Students are expected to fully (and solely) participate in their group activities under a professional demeanor. At all times, please maintain a supportive learning community where everyone feels safe and where people can disagree amicably and professionally. We will respect each other and practice courtesy at all times. Disrespectful language, including, but not limited to, sexist, racist, homophobic, or anti-ethnic slurs or bigotry, will not be tolerated. I am committed to making the classroom a comfortable space for all of us, and I ask that we all work toward this goal in all of the course's online areas.
 
 ## Academic Violations
 
@@ -218,7 +218,7 @@ All students, faculty, and staff must comply with and stay current on all [unive
 
 ## Credits
 
-Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut.
+Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
 [office hour]: https://huntercollege.zoom.us/my/khatchad
 [textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/3843476
