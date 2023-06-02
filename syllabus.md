@@ -221,8 +221,7 @@ All students, faculty, and staff must comply with and stay current on all [unive
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut.
 
 [office hour]: https://huntercollege.zoom.us/my/khatchad
-[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/2655531
-https://hunter.textbookx.com/institutional/?action=browse#books/3843476
+[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/3843476
 [GitHub]: https://github.com/CSCI-40500-77100-Summer-2023/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
