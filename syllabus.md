@@ -23,7 +23,7 @@ Software Engineering (SE) is concerned with all facets of software development, 
 
 ## Outline and Schedule of Course Topics
 
-The following topics will be covered in the given order:
+The following topics may be covered in the given order:
 
 Topic | Reading Chapter(s)
 --- | ---
