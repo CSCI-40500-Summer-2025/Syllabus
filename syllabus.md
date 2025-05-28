@@ -21,9 +21,7 @@ This course is an introductory survey on the fundamental concepts and principles
 
 Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of Computer Science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
-## Outline and Schedule of Course Topics
-
-The following topics may be covered in the given order:
+## Potential Course Topics
 
 Topic | Reading Chapter(s)
 --- | ---
@@ -46,7 +44,7 @@ Students are required to read the linked articles if no chapter is specified abo
 
 ## Prerequisites
 
-- CSCI 33500: Software Analysis and Design III or equivalent.
+- [CSCI 33500: Software Analysis and Design III] or equivalent.
 
 Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience.
 
@@ -223,3 +221,4 @@ Portions of this syllabus are based on the syllabus used for the [CEN 5035 Softw
 [GitHub]: https://github.com/CSCI-40500-Summer-2025/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
+[CSCI 33500: Software Analysis and Design III]: https://hunter-undergraduate.catalog.cuny.edu/courses/0245511
