@@ -1,4 +1,4 @@
-# CSCI 40500/77100: Software Engineering
+# CSCI 40500: Software Engineering
 
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Hunter College.
 
@@ -6,13 +6,13 @@
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://khatchad.commons.gc.cuny.edu) 
-**Office:** | 1090H Hunter North Building
-**Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
+**Instructor:** | [Raffi Khatchadourian]
+**Office:** | 1090J Hunter North Building
+**Email:** | [khatchad@hunter.cuny.edu](mailto:khatchad@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
 **Virtual office hours:** | [MW 1:30-2:30 pm][office hour]
-**Semester:** | Summer 2023
-**Section:** | CSCI 40500/77100-01
+**Semester:** | Summer 2025
+**Section:** | CSCI 40500-01 (11073)
 **Instruction mode:** | Online (asynchronous)
 
 ## Course Description
@@ -80,10 +80,12 @@ Participation | 5%
 Event | Date
 ----- | ----
 Midterm Exam | TBD
-Juneteenth (college is closed) | June 19
-Classes follow a Monday schedule | June 28
-Independence Day (college is closed) | July 4
-Final Exam | TBD (no latter than July 12)
+No classes scheduled | June 6
+Classes follow a Thursday schedule | June 17
+College closed | June 19
+Withdrawal (W) period ends | June 26
+College closed | July 4
+Final Exam | TBD (no latter than July 8)
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
@@ -150,12 +152,12 @@ CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheat
 - Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
-- Post all class-related discussions on the Bb discussion board.
+- Post all class-related discussions on the discussion board.
 - Ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Bulletin Board
 
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+You should check the [Brightspace](http://brightpace.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Brightspace to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
 ## Laptop Loans, Computer Science Facilities, &amp; Labs
 
@@ -212,16 +214,12 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 1. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
 1. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complementary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
-## COVID
-
-All students, faculty, and staff must comply with and stay current on all [university safety and health guidance](https://www.cuny.edu/coronavirus). Accommodations will be made based on university guidelines.
-
 ## Credits
 
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
-[office hour]: https://huntercollege.zoom.us/my/khatchad
-[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/3843476
-[GitHub]: https://github.com/CSCI-40500-77100-Summer-2023/Syllabus/commits/master
+[office hour]: https://meet.google.com/chb-fvsp-edk
+[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/5036278
+[GitHub]: https://github.com/CSCI-40500-Summer-2025/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
-[Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
+[Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
