@@ -77,13 +77,13 @@ Participation | 5%
 
 Event | Date
 ----- | ----
-Midterm Exam | TBD
 No classes scheduled | June 6
 Classes follow a Thursday schedule | June 17
 College closed | June 19
+Midterm Exam | June 20
 Withdrawal (W) period ends | June 26
 College closed | July 4
-Final Exam | TBD (no latter than July 8)
+Final Exam | July 8
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
